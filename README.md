@@ -2,7 +2,7 @@
 
 **ProceduralFX** is a portfolio project demonstrating a complete procedural generation pipeline for game development. It features a Python-based backend that procedurally generates a 3D city layout (assets, buildings, environment) and a optimized Three.js web viewer for real-time rendering.
 
-![City View](https://raw.githubusercontent.com/laxmanprasadsomaraju/procedural_fx/main/viewer/public/vite.svg) *Note: Replace with actual screenshot URL locally or after upload*
+![City View](https://raw.githubusercontent.com/laxmanprasadsomaraju/procedural_fx/main/viewer/public/vite.svg) *Note: Application URL:https://procedural-fx.vercel.app/
 
 ## 🚀 Features
 
